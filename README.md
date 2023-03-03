@@ -13,4 +13,4 @@ Resources department.
 The open source database PostgreSQL was used via the pgAdmin client. 
 The first task was to create tables to hold the data from the CSV files. The CSV files were then imported into the SQL database and the analysis was 
 carried out.
-The relationship between the attributes for each of the entities was also mapped out using an Entity Relationship Diagram. 
+The relationships between the attributes for each of the entities were also mapped out using an Entity Relationship Diagram (see sql_challenge_ERD.png in the repo). The queries that were run can be found in the employees_db.sql. 
